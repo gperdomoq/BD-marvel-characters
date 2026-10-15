@@ -7,6 +7,7 @@ El proyecto NestJS lo deben crear ustedes desde cero, en una carpeta aparte.
 - Docker Desktop (o Docker Engine + Docker Compose)
 
 ## Levantar la base de datos
+Toca tener Docker abierto y corriendo
 ```bash
 docker compose up -d
 ```
